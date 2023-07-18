@@ -1,0 +1,92 @@
+[
+  {
+    "id": 2,
+    "title": "Te",
+    "description": "La Virginia",
+    "price": 2001,
+    "thumbnail": "http://te.png",
+    "code": "CA46CO",
+    "stock": 36
+  },
+  {
+    "id": 3,
+    "title": "Yerba",
+    "description": "playadito",
+    "price": 2002,
+    "thumbnail": "http://yerba.png",
+    "code": "CA47CO",
+    "stock": 37
+  },
+  {
+    "id": 4,
+    "title": "Mate Cocido",
+    "description": "Taragui",
+    "price": 2003,
+    "thumbnail": "http://mate-cocido.png",
+    "code": "CA48CO",
+    "stock": 38
+  },
+  {
+    "id": 5,
+    "title": "Agua",
+    "description": "Kim",
+    "price": 2004,
+    "thumbnail": "http://agua.png",
+    "code": "CA49CO",
+    "stock": 39
+  },
+  {
+    "id": 6,
+    "title": "Leche",
+    "description": "Serenisima",
+    "price": 2005,
+    "thumbnail": "http://leche.png",
+    "code": "CA50CO",
+    "stock": 40
+  },
+  {
+    "id": 7,
+    "title": "Jugo de Naranja",
+    "description": "Citric",
+    "price": 2006,
+    "thumbnail": "http://jugo-naranja.png",
+    "code": "CA51CO",
+    "stock": 41
+  },
+  {
+    "id": 8,
+    "title": "Limonada",
+    "description": "Prity",
+    "price": 2007,
+    "thumbnail": "http://limonada.png",
+    "code": "CA52CO",
+    "stock": 42
+  },
+  {
+    "id": 9,
+    "title": "Mermelada Arandanos",
+    "description": "Bc",
+    "price": 2008,
+    "thumbnail": "http://mermelada-arandanos.png",
+    "code": "CA53CO",
+    "stock": 43
+  },
+  {
+    "id": 10,
+    "title": "Queso Crema",
+    "description": "Serenisima",
+    "price": 2009,
+    "thumbnail": "http://queso-crema.png",
+    "code": "CA54CO",
+    "stock": 44
+  },
+  {
+    "id": 1,
+    "title": "Cafe",
+    "description": "Cafe tostado Juan Valdez",
+    "price": 2000,
+    "thumbnail": "http://cafe.png",
+    "code": "CA45CO",
+    "stock": 35
+  }
+]
