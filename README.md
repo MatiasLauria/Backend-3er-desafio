@@ -1,8 +1,8 @@
 # Backend-3er-desafio
 
-Se instalaron las dependencias a partir del comando npm install
-Se hecha a andar el servidor
-se harcodea un archivo con 10 productos
+Se instalaron las dependencias a partir del comando npm install.
+Se hecha a andar el servidor.
+se harcodea un archivo con 10 productos.
 servidor corriendo en el puerto 8080.
 http://localhost:8080/products sin query, eso debe devolver todos los 10 productos.
 http://localhost:8080/products?limit=5 , eso debe devolver sólo los primeros 5 de los 10 productos.
